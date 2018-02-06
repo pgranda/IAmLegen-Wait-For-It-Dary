@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: bb489d3c665743a4495def76f842aca9
+timeCreated: 1508417895
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bates Shower
+  fontNames:
+  - Bates Shower
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

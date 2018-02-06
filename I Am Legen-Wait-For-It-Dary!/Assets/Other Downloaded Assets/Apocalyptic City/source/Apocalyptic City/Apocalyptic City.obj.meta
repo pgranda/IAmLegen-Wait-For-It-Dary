@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: a6608fdab66faf849bea308f95298230
+timeCreated: 1507547868
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: back_builds
+    100004: cars
+    100006: facade005
+    100008: facade1
+    100010: facade2
+    100012: facade3
+    100014: facade6
+    100016: foreground
+    100018: liana1
+    100020: Object005
+    100022: outpost
+    100024: Plane002
+    100026: Plane003
+    100028: Plane004
+    100030: Plane006
+    100032: Plane007
+    100034: posters_grass
+    100036: road
+    100038: road_staff
+    100040: rubbish_01
+    100042: sky
+    100044: wire
+    400000: //RootNode
+    400002: back_builds
+    400004: cars
+    400006: facade005
+    400008: facade1
+    400010: facade2
+    400012: facade3
+    400014: facade6
+    400016: foreground
+    400018: liana1
+    400020: Object005
+    400022: outpost
+    400024: Plane002
+    400026: Plane003
+    400028: Plane004
+    400030: Plane006
+    400032: Plane007
+    400034: posters_grass
+    400036: road
+    400038: road_staff
+    400040: rubbish_01
+    400042: sky
+    400044: wire
+    2300000: back_builds
+    2300002: cars
+    2300004: facade005
+    2300006: facade1
+    2300008: facade2
+    2300010: facade3
+    2300012: facade6
+    2300014: foreground
+    2300016: liana1
+    2300018: Object005
+    2300020: outpost
+    2300022: Plane002
+    2300024: Plane003
+    2300026: Plane004
+    2300028: Plane006
+    2300030: Plane007
+    2300032: posters_grass
+    2300034: road
+    2300036: road_staff
+    2300038: rubbish_01
+    2300040: sky
+    2300042: wire
+    3300000: back_builds
+    3300002: cars
+    3300004: facade005
+    3300006: facade1
+    3300008: facade2
+    3300010: facade3
+    3300012: facade6
+    3300014: foreground
+    3300016: liana1
+    3300018: Object005
+    3300020: outpost
+    3300022: Plane002
+    3300024: Plane003
+    3300026: Plane004
+    3300028: Plane006
+    3300030: Plane007
+    3300032: posters_grass
+    3300034: road
+    3300036: road_staff
+    3300038: rubbish_01
+    3300040: sky
+    3300042: wire
+    4300000: back_builds
+    4300002: cars
+    4300004: facade005
+    4300006: facade1
+    4300008: facade2
+    4300010: facade3
+    4300012: facade6
+    4300014: foreground
+    4300016: liana1
+    4300018: Object005
+    4300020: outpost
+    4300022: Plane002
+    4300024: Plane003
+    4300026: Plane004
+    4300028: Plane006
+    4300030: Plane007
+    4300032: posters_grass
+    4300034: road
+    4300036: road_staff
+    4300038: rubbish_01
+    4300040: sky
+    4300042: wire
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
